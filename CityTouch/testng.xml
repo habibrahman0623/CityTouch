@@ -1,0 +1,11 @@
+&lt;suite name="Test-Suite" &gt;
+ 
+ &lt;test name="Fund-Transfer" &gt;
+ 
+ &lt;classes&gt; &lt;class name="fundTrasferModule.NewTest" /&gt;
+ 
+ &lt;/classes&gt;
+ 
+ &lt;/test&gt;
+ 
+&lt;/suite&gt;
